@@ -10,7 +10,7 @@ script:
 
 after_success:
   - docker build -t dotadro/multi-client ./client
-  - docker build -t dotadro/multi-nginx ./ningx
+  - docker build -t dotadro/multi-nginx ./nginx
   - docker build -t dotadro/multi-server ./server
   - docker build -t dotadro/multi-worker ./worker
   # Log in to docker CLI
