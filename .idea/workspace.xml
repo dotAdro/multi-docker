@@ -10,17 +10,9 @@
       <change afterPath="$PROJECT_DIR$/../complex/worker/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../complex/worker/keys.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../complex/worker/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/Dockerfile.dev" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/nginx/default.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nginx/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nginx/Dockerfile.dev" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nginx/default.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Dockerfile.dev" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worker/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worker/Dockerfile.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Zzzswo8WddLLGrzKxvsf8FeO9x" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -72,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585856920038</updated>
       <workItem from="1585856921461" duration="4030000" />
-      <workItem from="1585995558089" duration="6003000" />
+      <workItem from="1585995558089" duration="6902000" />
     </task>
     <servers />
   </component>
