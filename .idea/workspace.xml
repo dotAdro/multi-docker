@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec5b516c-a3c0-4359-bf66-0e13d9b0694b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../complex/client/src/Fib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/client/src/OtherPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/server/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/server/keys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/worker/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/worker/keys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/worker/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/Dockerfile.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/nginx/default.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/Dockerfile.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/default.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Dockerfile.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worker/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worker/Dockerfile.dev" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1Zzzswo8WddLLGrzKxvsf8FeO9x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Adro\dev\udemy-courses\DockerKubernetes\fibonnaci\complexII\client" />
+      <recent name="C:\Users\Adro\dev\udemy-courses\DockerKubernetes\fibonnaci\complexII\nginx" />
+      <recent name="C:\Users\Adro\dev\udemy-courses\DockerKubernetes\fibonnaci\complexII\server" />
+      <recent name="C:\Users\Adro\dev\udemy-courses\DockerKubernetes\fibonnaci\complexII\worker" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec5b516c-a3c0-4359-bf66-0e13d9b0694b" name="Default Changelist" comment="" />
+      <created>1585856920038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585856920038</updated>
+      <workItem from="1585856921461" duration="4030000" />
+      <workItem from="1585995558089" duration="6003000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="514" y="202" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585857814770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="514" y="202" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1585857814770" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1586027347471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1586027347471" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1585859873149">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1585859873149" />
+  </component>
+</project>
