@@ -25,7 +25,7 @@
     {
       "name": "nginx",
       "image": "dotadro/multi-nginx",
-      "essential": true,,
+      "essential": true,
       "memory": 128,
       "portMappings": [
         {
