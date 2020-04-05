@@ -10,9 +10,9 @@
       <change afterPath="$PROJECT_DIR$/../complex/worker/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../complex/worker/keys.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../complex/worker/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerrun.aws.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerrun.aws.json" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerrun.aws.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585856920038</updated>
       <workItem from="1585856921461" duration="4030000" />
-      <workItem from="1585995558089" duration="12238000" />
+      <workItem from="1585995558089" duration="12786000" />
     </task>
     <servers />
   </component>
